@@ -24,6 +24,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .rightmenu {
     width: 75%;
     height: 100px;
@@ -44,6 +48,10 @@
     line-height: 100px;
     margin-left: 70px;
     text-transform: uppercase;
+}
+
+.rightmenu ul li a {
+    text-decoration: none;
 }
 
 #firstlist {
