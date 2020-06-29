@@ -1,0 +1,472 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*--- Navigation Section --- */
+
+.nav-icon {
+    background: #7b8bc7;
+    margin-left: -1rem;
+}
+
+.nav-link {}
+
+h1 {}
+
+h3 {}
+
+.btn-primary {}
+
+.btn-primary:hover {}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-youtube {
+    color: #bb0000;
+}
+
+.fa-instagram {
+    color: #517fa4;
+}
+
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {}
+
+.welcome hr {
+    border-top: 2px solid #7b8bc7;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.navbar-nav li {
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-nav li:hover,
+.navbar-nav li.active {
+    color: #7b8bc7;
+}
+
+
+/*-- End of the Navigation Section --*/
+
+
+/*-- Landing Section -- */
+
+.slider {
+    position: relative;
+}
+
+#mycarousel .carousel-inner .carousel-item img {
+    width: 100%;
+    height: 100%;
+}
+
+#mycarousel .carousel-inner .carousel-item .carousel-caption {
+    max-width: 100%;
+    bottom: 25%;
+}
+
+#mycarousel.carousel-inner .carousel-item .carousel-caption h3 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+#mycarousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 1.5rem;
+}
+
+.slider .carousel-control-next {
+    position: absolute;
+    font-size: 4em;
+    font-weight: 500;
+    top: 85%;
+    margin-bottom: 1em;
+    width: 5%;
+    /* height: 4em; */
+    right: 47.5%;
+}
+
+.carousel-one {
+    background-image: url("img/pic1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-two {
+    background-image: url("img/background9.jpg");
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-three {
+    background-image: url("img/background8.jpg");
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-four {
+    background-image: url("img/background3.jpg");
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-five {
+    background-image: url("img/background4.jpg");
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-I {
+    background-image: url("img/pic1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 18rem;
+}
+
+.carousel-II {
+    background-image: url("img/pic5.jpg");
+    background-size: cover;
+    padding: 18rem;
+}
+
+.carousel-III {
+    background-image: url("img/pic9.jpg");
+    background-size: cover;
+    padding: 18rem;
+}
+
+.carousel-IV {
+    background-image: url("img/pic10.jpg");
+    background-size: cover;
+    padding: 18rem;
+}
+
+.carousel-V {
+    background-image: url("img/hotelll3.jpg");
+    background-size: cover;
+    padding: 18rem;
+}
+
+.car-control {
+    font-size: 60px;
+    text-decoration: none;
+    color: mintcream;
+}
+
+.carousel-head,
+.carousel-p {
+    color: white;
+    font-weight: bold;
+}
+
+.carousel-head,
+.carousel-p {
+    color: white;
+    font-weight: bold;
+}
+
+
+/*--- End of Landing Section --- */
+
+
+/* Booking Section ---*/
+
+#booking-area {
+    padding: 2em;
+}
+
+#booking-area .form-group {
+    position: relative;
+}
+
+#booking-area .form-group .input-placeholder {
+    position: absolute;
+    top: 0.5em;
+    left: 1em;
+    z-index: 3;
+}
+
+.btn5 {
+    margin-top: 25px;
+}
+
+.book-class {}
+
+.book-sec {
+    margin-top: 60px;
+}
+
+.input4 {
+    width: 60%;
+    height: 100%;
+}
+
+.book-sec1 {}
+
+.butt1 {
+    padding-left: 20px;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+
+.butt2 {
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 600px;
+}
+
+
+/*-- Rooms and rate Css --*/
+
+.image {
+    background-image: url("img/hotel14(1).jpg");
+    background-size: cover;
+    padding: 10rem;
+}
+
+.image1 {
+    background-image: url("img/background9.jpg");
+    background-size: cover;
+    padding: 10rem;
+}
+
+.image2 {
+    background-image: url("img/background4.jpg");
+    background-size: cover;
+    padding: 10rem;
+}
+
+.rowimage {
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.rate {
+    margin: 5rem 0;
+}
+
+.col1 {}
+
+
+/*-- End of Rooms and rate css --*/
+
+
+/*-- Customer Section --*/
+
+.bar {
+    width: 100%;
+    height: 100%;
+}
+
+.input1 {
+    width: 60%;
+    height: 60%;
+}
+
+.input2 {
+    width: 60%;
+    height: 60%;
+}
+
+.butt4 {
+    width: 10%;
+    margin-left: 50%;
+}
+
+
+/*-- End of Customer Section --*/
+
+
+/*-- Facilities Section --*/
+
+.icon-bg {
+    background-color: #7b8bc7;
+}
+
+
+/*-- End of Facilities Section --*/
+
+
+/*--- SneakPeak Section -- */
+
+.sneakpeak-sec {
+    margin-top: 10px;
+}
+
+.carousel-six {
+    background-image: url("img/hotel11.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-eight {
+    background-image: url("img/background3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-nine {
+    background-image: url("img/background4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-ten {
+    background-image: url("img/background5.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+.carousel-eleven {
+    background-image: url("img/background9.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15rem;
+}
+
+
+/*---End of SneakPeak Section --*/
+
+
+/*-- Footer ---*/
+
+footer {
+    padding-top: 2rem;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+
+.butt3 {
+    padding-left: 30px;
+    margin-left: 55%;
+}
+
+.input {
+    width: 70%;
+    height: 100%;
+}
+
+
+/*-- End of Footer --*/
+
+
+/*-- Rooms and rate Css --/
+/*-- Media Query -- */
+
+@media (max-width: 992px) {
+    .social a {
+        font-size: 4em;
+        padding: 2rem;
+    }
+}
+
+@media(max-width: 768px) {
+    .carousel caption {
+        top: 45%;
+    }
+    .carousel h1 {
+        font-size: small;
+    }
+    .carousel h3 {
+        font-size: small;
+    }
+    .social a {
+        font-size: 2.5em;
+        padding: 1.2rem;
+    }
+    .carousel-I {
+        background-image: url("img/pic1.jpg");
+        background-size: cover;
+        padding: 10rem;
+    }
+    .carousel-II {
+        background-image: url("img/background9.jpg");
+        background-size: cover;
+        padding: 10rem;
+    }
+    .carousel-III {
+        background-image: url("img/hotelll3.jpg");
+        background-size: auto;
+        padding: 10rem;
+    }
+    .carousel-IV {
+        background-image: url("img/hotel14(1).jpg");
+        background-size: cover;
+        padding: 10rem;
+    }
+    .carousel-V {
+        background-image: url("img/hotel11.jpg");
+        background-size: cover;
+        padding: 10rem;
+    }
+}
+
+@media(max-width: 576px) {
+    .carousel-caption h1 {
+        font-size:
+    }
+    .carousel-caption h3 {
+        font-size: 110%;
+    }
+    .carousel-caption .btn {
+        font-size: 90%;
+        padding: 8px 14px;
+    }
+    .social a {
+        font-size: 2.5em;
+        padding: 1.2rem;
+    }
+    .carousel-I {
+        background-image: url("img/pic1.jpg");
+        background-size: background-origin: content-box;
+        padding: 20rem;
+    }
+    .carousel-II {
+        background-image: url("img/background9.jpg");
+        background-size: cover;
+        padding: 20rem;
+    }
+    .carousel-III {
+        background-image: url("img/hotelll3.jpg");
+        background-size: cover;
+        padding: 20rem;
+    }
+    .carousel-IV {
+        background-image: url("img/hotel14(1).jpg");
+        background-size: cover;
+        padding: 20rem;
+    }
+    .carousel-V {
+        background-image: url("img/hotel11.jpg");
+        background-size: cover;
+        padding: 20rem;
+    }
+}
+
+
+/*-- End of Media Query --*/
